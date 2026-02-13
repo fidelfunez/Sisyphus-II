@@ -351,19 +351,6 @@ npm run build
 | `ENVIRONMENT` | Environment name | Yes | `production` |
 | `ALLOWED_ORIGINS` | CORS allowed origins | Yes | `https://yourdomain.com` |
 
-## Performance & Monitoring
-
-### Performance Metrics
-- **Frontend**: React 18 with Vite for fast development and builds
-- **Backend**: FastAPI with async/await for high concurrency
-- **Database**: PostgreSQL with proper indexing and query optimization
-- **Caching**: Redis for session management and task scheduling
-
-### Monitoring
-- **Health Checks**: `/health` endpoint for service monitoring
-- **Logging**: Structured logging with different levels
-- **Error Tracking**: Comprehensive error handling and reporting
-
 ## Contributing
 
 We welcome contributions - Please follow these steps:
@@ -379,22 +366,6 @@ We welcome contributions - Please follow these steps:
 - Add tests for new features
 - Update documentation as needed
 - Ensure all tests pass before submitting
-
-## Roadmap
-
-### Planned Features
-- [ ] **Mobile App**: React Native version
-- [ ] **Team Collaboration**: Shared tasks and team management
-- [ ] **Advanced Analytics**: Detailed productivity insights
-- [ ] **API Rate Limiting**: Protect against abuse
-- [ ] **WebSocket Support**: Real-time notifications
-- [ ] **Offline Support**: PWA capabilities
-
-### Performance Improvements
-- [ ] **Database Optimization**: Query performance tuning
-- [ ] **Caching Strategy**: Advanced Redis caching
-- [ ] **CDN Integration**: Static asset optimization
-- [ ] **Image Optimization**: WebP and lazy loading
 
 ## Troubleshooting
 
@@ -428,14 +399,7 @@ kill -9 <PID>
 
 ## License
 
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-- **FastAPI** team for the excellent web framework
-- **React** team for the amazing UI library
-- **TailwindCSS** for the utility-first CSS framework
-- **PostgreSQL** for the robust database system
+This project is licensed under the MIT License. Use it, fork it, build with it. 
 
 ## About Me
 
@@ -446,12 +410,6 @@ My name is **Fidel Fúnez**. I'm an independent computer science engineer, curre
 - **GitHub**: https://github.com/fidelfunez
 - **Portfolio**: https://fidelfunez.netlify.app/
 - **Bitcoin Education**: https://www.youtube.com/live/EV2_UlSQoAU?si=JoUqFyw8gSYBLClk&t=1292
-
-### What I'm Working On
-- Building robust, scalable web applications
-- Teaching others about Bitcoin and financial sovereignty
-- Contributing to open-source projects
-- Exploring new technologies and best practices
 
 ---
 

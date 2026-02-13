@@ -2,7 +2,7 @@
 
 A modern productivity app where users manage daily tasks that automatically reset every 24 hours, embodying the Sisyphus metaphor of starting fresh each day. Built with React, FastAPI, and PostgreSQL.
 
-## 🎯 Demo
+## Demo
 
 **Live Demo**: [Visit Sisyphus II](https://bucolic-toffee-e1e1b9.netlify.app/) 
 
@@ -10,7 +10,7 @@ A modern productivity app where users manage daily tasks that automatically rese
 - Username: `demo`
 - Password: `demo1234`
 
-## 🧠 Concept
+## Concept
 
 - **Daily Reset Philosophy**: Tasks automatically reset every 24 hours, encouraging focus on today's priorities
 - **Clean Interface**: Minimalist design that reduces cognitive load
@@ -18,7 +18,7 @@ A modern productivity app where users manage daily tasks that automatically rese
 - **Secure**: JWT-based authentication with refresh tokens
 - **Real-time**: Instant updates and responsive interactions
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
@@ -48,7 +48,7 @@ App
 │       └── ExportImport
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack/Tools
 
 ### Frontend
 - **React 18** - Modern UI library with hooks
@@ -73,7 +73,7 @@ App
 - **Python 3.9+** - Backend runtime
 - **Node.js 18+** - Frontend runtime
 
-## 🚀 Key Features
+## Key Features
 
 ### 🔐 Authentication & Security
 - **JWT Authentication**: Secure token-based auth with refresh tokens
@@ -113,7 +113,7 @@ App
 - **Accessibility**: WCAG compliant design
 - **Dark/Light Mode**: Theme preferences (planned)
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 Sisyphus/
@@ -156,7 +156,7 @@ Sisyphus/
 └── .env.example          # Environment variables template
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - **Node.js 18+** - Frontend runtime
@@ -221,7 +221,7 @@ docker-compose up --build
 # Database: localhost:5432
 ```
 
-## 🔧 Environment Variables
+## Environment Variables
 
 Create a `.env` file in the root directory:
 
@@ -249,7 +249,7 @@ ENVIRONMENT=development
 ALLOWED_ORIGINS=http://localhost:3000,http://localhost:3001
 ```
 
-## 📝 API Documentation
+## API Documentation
 
 ### Interactive Documentation
 Once the backend is running, visit:
@@ -285,7 +285,7 @@ All protected endpoints require a JWT Bearer token in the Authorization header:
 Authorization: Bearer <your-jwt-token>
 ```
 
-## 🧪 Testing
+## Testing
 
 ### Backend Tests
 ```bash
@@ -307,7 +307,7 @@ npm run test:coverage
 docker-compose -f docker-compose.test.yml up --build
 ```
 
-## 🚀 Deployment
+## Deployment
 
 ### Production Setup
 
@@ -351,7 +351,7 @@ npm run build
 | `ENVIRONMENT` | Environment name | Yes | `production` |
 | `ALLOWED_ORIGINS` | CORS allowed origins | Yes | `https://yourdomain.com` |
 
-## 📊 Performance & Monitoring
+## Performance & Monitoring
 
 ### Performance Metrics
 - **Frontend**: React 18 with Vite for fast development and builds
@@ -364,7 +364,7 @@ npm run build
 - **Logging**: Structured logging with different levels
 - **Error Tracking**: Comprehensive error handling and reporting
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -383,7 +383,6 @@ We welcome contributions! Please follow these steps:
 ## 📈 Roadmap
 
 ### Planned Features
-- [ ] **Dark/Light Theme**: User preference for UI themes
 - [ ] **Mobile App**: React Native version
 - [ ] **Team Collaboration**: Shared tasks and team management
 - [ ] **Advanced Analytics**: Detailed productivity insights
@@ -397,7 +396,7 @@ We welcome contributions! Please follow these steps:
 - [ ] **CDN Integration**: Static asset optimization
 - [ ] **Image Optimization**: WebP and lazy loading
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -427,22 +426,22 @@ lsof -i :8000
 kill -9 <PID>
 ```
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **FastAPI** team for the excellent web framework
 - **React** team for the amazing UI library
 - **TailwindCSS** for the utility-first CSS framework
 - **PostgreSQL** for the robust database system
 
-## 👨🏻‍💻 About Me
+## About Me
 
-Hi, I'm **Fidel Fúnez**. I'm an independent full-stack developer and Bitcoin educator based in Tegucigalpa, Honduras 🇭🇳, and The Woodlands, Texas 🇺🇸, currently building my portfolio while helping others understand tech and financial freedom!
+My name is **Fidel Fúnez**. I'm an independent computer science engineer, and Bitcoin educator, currently split between Tegucigalpa, Honduras 🇭🇳, and The Woodlands, Texas 🇺🇸. I'm building to showcase my abilities while helping others understand tech and financial freedom.
 
-### Connect With Me
+### Connect
 - **LinkedIn**: https://linkedin.com/in/fidel-funez
 - **GitHub**: https://github.com/fidelfunez
 - **Portfolio**: [Your Portfolio Website]

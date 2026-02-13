@@ -4,7 +4,7 @@ A modern productivity app where users manage daily tasks that automatically rese
 
 ## Demo
 
-**Live Demo**: [Visit Sisyphus II](https://bucolic-toffee-e1e1b9.netlify.app/) 
+**Live Demo**: [Visit Sisyphus II](https://sisyphus-ii.netlify.app/login) 
 
 **Demo Credentials**: 
 - Username: `demo`

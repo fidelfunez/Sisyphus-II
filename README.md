@@ -75,38 +75,38 @@ App
 
 ## Key Features
 
-### 🔐 Authentication & Security
+### Authentication & Security
 - **JWT Authentication**: Secure token-based auth with refresh tokens
 - **Password Hashing**: bcrypt for secure password storage
 - **CORS Protection**: Configured for production security
 - **Input Validation**: Comprehensive request validation
 
-### 📋 Task Management
+### Task Management
 - **CRUD Operations**: Full create, read, update, delete functionality
 - **Bulk Operations**: Multi-select task management with batch processing
 - **Priority Levels**: Low, Medium, High priority system
 - **Categories**: Organize tasks by custom categories
 - **Due Dates**: Set and track task deadlines
 
-### ⏰ Smart Scheduling
+### Smart Scheduling
 - **Daily Reset**: Automated task reset based on user preferences
 - **Redis Integration**: Efficient scheduling and caching
 - **Custom Reset Times**: Users can set their preferred reset hour
 - **Overdue Detection**: Automatic overdue task identification
 
-### 📊 Analytics & Insights
+### Analytics & Insights
 - **Completion Tracking**: Monitor task completion rates
 - **Productivity Metrics**: Visual analytics dashboard
 - **Progress Visualization**: Charts and progress indicators
 - **Performance Insights**: User productivity patterns
 
-### 🔄 Data Management
+### Data Management
 - **Export/Import**: JSON and CSV data portability
 - **Backup/Restore**: Easy data migration capabilities
 - **Bulk Operations**: Efficient batch processing
 - **Search & Filter**: Advanced task filtering system
 
-### 📱 User Experience
+### User Experience
 - **Responsive Design**: Mobile-first approach
 - **Real-time Updates**: Instant UI feedback
 - **Keyboard Shortcuts**: Power user features
@@ -366,7 +366,7 @@ npm run build
 
 ## Contributing
 
-We welcome contributions! Please follow these steps:
+We welcome contributions - Please follow these steps:
 
 1. **Fork** the repository
 2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
@@ -380,7 +380,7 @@ We welcome contributions! Please follow these steps:
 - Update documentation as needed
 - Ensure all tests pass before submitting
 
-## 📈 Roadmap
+## Roadmap
 
 ### Planned Features
 - [ ] **Mobile App**: React Native version
@@ -439,7 +439,7 @@ This project is licensed under the MIT License.
 
 ## About Me
 
-My name is **Fidel Fúnez**. I'm an independent computer science engineer, and Bitcoin educator, currently split between Tegucigalpa, Honduras 🇭🇳, and The Woodlands, Texas 🇺🇸. I'm building to showcase my abilities while helping others understand tech and financial freedom.
+My name is **Fidel Fúnez**. I'm an independent computer science engineer, currently split between Tegucigalpa, Honduras 🇭🇳, and The Woodlands, Texas 🇺🇸. I'm building to showcase my abilities while helping others understand tech.
 
 ### Connect
 - **LinkedIn**: https://linkedin.com/in/fidel-funez

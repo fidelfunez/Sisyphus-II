@@ -444,7 +444,7 @@ My name is **Fidel Fúnez**. I'm an independent computer science engineer, and B
 ### Connect
 - **LinkedIn**: https://linkedin.com/in/fidel-funez
 - **GitHub**: https://github.com/fidelfunez
-- **Portfolio**: [Your Portfolio Website]
+- **Portfolio**: https://fidelfunez.netlify.app/
 - **Bitcoin Education**: https://www.youtube.com/live/EV2_UlSQoAU?si=JoUqFyw8gSYBLClk&t=1292
 
 ### What I'm Working On
